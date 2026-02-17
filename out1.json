@@ -1,0 +1,38 @@
+{
+  "video_info": {
+    "total_frames": 378,
+    "fps": 29,
+    "width": 640,
+    "height": 360
+  },
+  "trackers": {
+    "2": {
+      "total_frames": 179,
+      "max_slip_angle": 175.99432090084338,
+      "avg_slip_angle": 14.1665213552801,
+      "behavior_distribution": {
+        "Unknown": 2,
+        "Extreme Drift": 37,
+        "Normal": 55,
+        "Slight Zigzag": 58,
+        "Zigzag": 14,
+        "Drift": 13
+      },
+      "dominant_behavior": "Slight Zigzag"
+    },
+    "5": {
+      "total_frames": 287,
+      "max_slip_angle": 179.23737539197435,
+      "avg_slip_angle": 113.11065995173219,
+      "behavior_distribution": {
+        "Unknown": 2,
+        "Extreme Drift": 179,
+        "Drift": 48,
+        "Slight Zigzag": 15,
+        "Zigzag": 16,
+        "Normal": 27
+      },
+      "dominant_behavior": "Extreme Drift"
+    }
+  }
+}

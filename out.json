@@ -1,0 +1,108 @@
+{
+  "video_info": {
+    "total_frames": 378,
+    "fps": 29,
+    "width": 640,
+    "height": 360
+  },
+  "trackers": {
+    "1": {
+      "total_frames": 98,
+      "max_slip_angle": 72.99205142961841,
+      "avg_slip_angle": 34.85616385196029,
+      "behavior_distribution": {
+        "Unknown": 2,
+        "Drift": 42,
+        "Zigzag": 23,
+        "Extreme Drift": 3,
+        "Slight Zigzag": 15,
+        "Normal": 13
+      },
+      "dominant_behavior": "Drift"
+    },
+    "3": {
+      "total_frames": 179,
+      "max_slip_angle": 175.99432090084338,
+      "avg_slip_angle": 14.1665213552801,
+      "behavior_distribution": {
+        "Unknown": 2,
+        "Extreme Drift": 37,
+        "Normal": 55,
+        "Slight Zigzag": 58,
+        "Zigzag": 14,
+        "Drift": 13
+      },
+      "dominant_behavior": "Slight Zigzag"
+    },
+    "7": {
+      "total_frames": 3,
+      "max_slip_angle": 124.10095172163204,
+      "avg_slip_angle": 124.10095172163204,
+      "behavior_distribution": {
+        "Unknown": 2,
+        "Extreme Drift": 1
+      },
+      "dominant_behavior": "Unknown"
+    },
+    "11": {
+      "total_frames": 287,
+      "max_slip_angle": 179.236191634303,
+      "avg_slip_angle": 113.11208186099445,
+      "behavior_distribution": {
+        "Unknown": 2,
+        "Extreme Drift": 179,
+        "Drift": 48,
+        "Slight Zigzag": 16,
+        "Zigzag": 16,
+        "Normal": 26
+      },
+      "dominant_behavior": "Extreme Drift"
+    },
+    "12": {
+      "total_frames": 3,
+      "max_slip_angle": 13.424028374533066,
+      "avg_slip_angle": 13.424028374533066,
+      "behavior_distribution": {
+        "Unknown": 2,
+        "Slight Zigzag": 1
+      },
+      "dominant_behavior": "Unknown"
+    },
+    "14": {
+      "total_frames": 128,
+      "max_slip_angle": 174.4899454472723,
+      "avg_slip_angle": 56.882890024403736,
+      "behavior_distribution": {
+        "Unknown": 2,
+        "Extreme Drift": 47,
+        "Normal": 19,
+        "Slight Zigzag": 28,
+        "Zigzag": 14,
+        "Drift": 18
+      },
+      "dominant_behavior": "Extreme Drift"
+    },
+    "17": {
+      "total_frames": 5,
+      "max_slip_angle": 60.821434732427576,
+      "avg_slip_angle": 48.89031744847281,
+      "behavior_distribution": {
+        "Unknown": 2,
+        "Drift": 2,
+        "Extreme Drift": 1
+      },
+      "dominant_behavior": "Unknown"
+    },
+    "18": {
+      "total_frames": 40,
+      "max_slip_angle": 12.013586736806104,
+      "avg_slip_angle": 4.572635757961328,
+      "behavior_distribution": {
+        "Unknown": 2,
+        "Normal": 36,
+        "Slight Zigzag": 2
+      },
+      "dominant_behavior": "Normal"
+    }
+  }
+}

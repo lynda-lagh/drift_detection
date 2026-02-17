@@ -1,0 +1,5 @@
+ultralytics
+supervision
+tqdm
+opencv-python
+torch
